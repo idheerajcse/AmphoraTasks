@@ -1,0 +1,27 @@
+toDo:
+
+
+How to work with MVVm model in Wpf?
+WPF Basics.
+Dependency in WPF
+Basics layouts of WPF
+Templates in WPF
+Entity Framework
+IBatis
+Basics of Java
+xceed Grid
+Layouts Control in WPF
+
+Done:
+Basics of Wpf
+layout Control with Example
+Basics Controls 
+Grid 
+Stack Panel
+Dock Panel
+Wrap Panel
+Canvas
+Events 
+Triggers
+Creted a Sample demo for user Login and Registration based on above control with Custom bindings of data Grid.
+Data Bindings in WPF
